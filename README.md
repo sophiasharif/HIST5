@@ -17,3 +17,4 @@ These are my weekly prompt responses and papers from HIST 5 with Professor Sarah
 | Week 5   |  |
 | Week 6   ||
 
+![](https://view-counter.onrender.com/gh-HIST5)
